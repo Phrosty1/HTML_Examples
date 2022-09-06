@@ -1,5 +1,6 @@
 <!DOCTYPE html><meta charset="utf-8"/><html lang="en">
-<textarea id="txt_content" style="display:none;">Hello World.This is a test</textarea>
+<textarea id="txt_content">Hello World.This is a test</textarea>
+<textarea id="img_addr">Drawing1.svg</textarea>
 <head>
    <title>Reader</title>
    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
@@ -7,32 +8,35 @@
    <meta name="HandheldFriendly" content="true">
 </head>
 <style type="text/css">
-   p { display: block; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; font-size: 10vw;}
-   .nw1 { background-color:#f2f2f2; }
-   .nw0 { background-color:#e6e6e6; }
+   textarea{display:none}
+   p{display:block;margin-block-start:0px;margin-block-end:0px;margin-inline-start:0px;margin-inline-end:0px;font-size:10vw;}
+   .nw1{background-color:#f2f2f2;}
+   .nw0{background-color:#e6e6e6;}
 </style>
 <body style="font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;">
    <table style="width: 100%; margin-left:auto; margin-right:auto;">
-   <tr><td style="border:1px solid; text-align:center;"><p id="para_wordspot" onclick="do_playpause();">XXXX</p></td></tr>
+   <tr><td style="border:1px solid; text-align:center;"><p id="p_wordspot" onclick="do_playpause();">XXXX</p></td></tr>
    <tr><td><input id="rng_wpm" style="width:100%; height:5px;" type="range" min="50" max="1000" value="700" step="25" onchange="set_wpm(this.value)"></td></tr>
+   <tr><td><img id="pic" style="width:100%"></td></tr>
    <tr><td id="td_words" style="vertical-align:top;"/></tr>
    </table>
 </body>
 </html>
 <script>
-   let para_wordspot = document.getElementById("para_wordspot");
-   let textarea_sentence = document.getElementById("txt_content");
+   document.getElementById("pic").src = document.getElementById("img_addr").value;
+   let p_wordspot = document.getElementById("p_wordspot");
+   let ta_content = document.getElementById("txt_content");
    let rng_wpm = document.getElementById("rng_wpm");
-   let wpm_delay = (60000 / rng_wpm.value);
+   let wpm_delay;
    let arr_words = [];
    let arr_idx = 0;
-   function set_wpm(in_wpm) { wpm_delay = (60000 / in_wpm); para_wordspot.innerHTML = in_wpm + " wpm"; }
+   function set_wpm(in_wpm) { wpm_delay = (60000 / in_wpm); p_wordspot.innerHTML = in_wpm + " wpm"; }
    set_wpm(rng_wpm.value);
-   rng_wpm.onchange = function () { set_wpm(rng_wpm.value); };
+   rng_wpm.onchange = function () {set_wpm(rng_wpm.value)}
    var timeout_pending = null;
    var do_show_next = function() {
       if (arr_idx < arr_words.length) {
-         para_wordspot.innerHTML = arr_words[arr_idx++];
+         p_wordspot.innerHTML = arr_words[arr_idx++];
          timeout_pending = setTimeout(do_show_next, wpm_delay);
       } else {
          timeout_pending = null;
@@ -45,25 +49,21 @@
       else if (timeout_pending == null) arr_idx = 0; // if ended, reload
       else do_pause(); // otherwise pause
    }
-   function jumptoidx(idx) {
-      do_pause();
-      arr_idx = idx;
-      para_wordspot.innerHTML = arr_words[arr_idx];
-   }
+   function jumptoidx(idx) {do_pause(); arr_idx = idx; p_wordspot.innerHTML = arr_words[arr_idx];}
    function wordListCreate(in_words) {
       let td_words = document.getElementById("td_words");
       let _navword_ = document.createElement('span');
       for (let idx in in_words) {
-         var naveachword = _navword_.cloneNode(false);
-         naveachword.className = 'nw'+(idx%2);
-         naveachword.appendChild(document.createTextNode(in_words[idx]+" "));
-         naveachword.setAttribute('onclick', 'jumptoidx(' + idx + ')');
-         td_words.appendChild(naveachword);
+         var eword = _navword_.cloneNode(false);
+         eword.className = 'nw'+(idx%2);
+         eword.appendChild(document.createTextNode(in_words[idx]+" "));
+         eword.setAttribute('onclick', 'jumptoidx(' + idx + ')');
+         td_words.appendChild(eword);
       }
    }
    let isInTag = false;
-   let scrubbed_sentence = textarea_sentence.value.replace(/\.(\w)/g, ". $1")
-   for (let word of scrubbed_sentence.split("\r").join(" ").split("\n").join(" ").split(" ")) {
+   let txt_scrubbed = ta_content.value.replace(/\.(\w)/g, ". $1")
+   for (let word of txt_scrubbed.split("\r").join(" ").split("\n").join(" ").split(" ")) {
       if (word.startsWith("<")) isInTag = true; else if (word.endsWith(">")) isInTag = false;
       if (word != "" & !isInTag) arr_words.push(word);
    }
