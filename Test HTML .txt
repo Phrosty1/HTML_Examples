@@ -1,0 +1,440 @@
+<!DOCTYPE html><meta charset="utf-8"/><html lang="en">
+<textarea id="txt_content">
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+
+							<div>
+
+			<div>
+
+				<header>
+
+										
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)" srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x"><source srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x"><img alt="2022-ELECTIONUPDATE-0906-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x" srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x" data-lazy-loaded="1" sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" loading="eager"><noscript>&lt;img data-lazy-fallback="1" alt="2022-ELECTIONUPDATE-0906-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916" srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x" class="" sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-4x3-1.png?w=1832 2x" /&gt;</noscript></picture></div>
+
+				
+			</span><!-- .has-bugs -->
+
+			
+						
+		</figure><!-- .single-featured-image --></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">After a <a href="https://fivethirtyeight.com/features/how-georgia-turned-blue/" target="_blank" rel="noopener">history-making 2020</a> and <a href="https://fivethirtyeight.com/features/how-democrats-won-the-georgia-runoffs/" target="_blank" rel="noopener">2021</a>, Georgia is once again <a href="https://youtu.be/ggGzE5KfCio" target="_blank" rel="noopener">on our minds</a> with two high-profile statewide races on the ballot this November: the U.S. Senate race, a <em>highly</em> competitive contest between Democratic Sen. Raphael Warnock and Republican Herschel Walker, as well as the gubernatorial contest, a <a href="https://fivethirtyeight.com/features/where-the-gop-could-make-or-break-its-chances-in-10-key-governors-races/" target="_blank" rel="noopener">high-octane rematch</a> between Republican Gov. Brian Kemp and Democrat Stacey Abrams.</p>
+
+
+
+<p data-paragraph="main">But interestingly, these races have pretty different outlooks in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm forecast</a>. The Senate race is currently rated <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/georgia/" target="_blank" rel="noopener">as a toss-up</a>, while in the governor’s race <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/georgia/" target="_blank" rel="noopener">Kemp is a clear favorite</a> to win.</p>
+
+
+<p class="clear"><hr><span></span></p>
+<h3>Does Herschel Walker have enough goodwill in Georgia to win a Senate seat?</h3>
+
+
+<p data-paragraph="main">Given how partisan our politics have become — especially in a state like Georgia where the <a href="https://fivethirtyeight.com/features/swing-voters-and-elastic-states/" target="_blank" rel="noopener">electorate is highly polarized</a> — it’s pretty unusual that the two statewide races show such a large gap, as much as 13 percentage points in some polls. Historically, major contests in Georgia have run close together, which is why a sizable split between the Senate and governor’s races would be pretty remarkable.</p>
+
+
+
+<p data-paragraph="main">For starters, the gap between the two races varies depending on pollster, but on average, polls have found a 7-point difference between the margins in the Senate and gubernatorial contests. This pretty much matches what our <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">more rigorous polling averages</a> found, too, with <a href="https://projects.fivethirtyeight.com/polls/senate/2022/georgia/" target="_blank" rel="noopener">Warnock up around 2 points</a> and <a href="https://projects.fivethirtyeight.com/polls/governor/2022/georgia/" target="_blank" rel="noopener">Kemp leading by about 5 points</a><span class="converted-anchor"><sup>1</sup></span> — or a 7-point gap.</p>
+
+
+<div>
+<section><header><h5>The gap between Georgia’s marquee races is wide</h5>
+ <p>The margin in Georgia’s Senate and governor races in polls that measured both, including the gap between the two contests, since the May 24 primary</p>
+ </header><table data-carpenter-slug="skelley.ga-sen-vs-ga-gov.2"><thead><tr aria-hidden="true"><th colspan="2" scope="colgroup"></th>
+ <th colspan="3" scope="colgroup">Margin</th>
+ </tr><tr><th colspan="1" scope="col">Poll</th>
+ <th colspan="1" scope="col">Date</th>
+ <th colspan="1" scope="col">Senate</th>
+ <th colspan="1" scope="col">Governor</th>
+ <th colspan="1" scope="col">Gap</th>
+ </tr></thead><tbody><tr><td>Emerson College</td>
+ <td>Aug. 28-29</td>
+ <td>R+2</td>
+ <td>R+5</td>
+ <td>3</td>
+ </tr><tr><td>Trafalgar Group (R)</td>
+ <td>Aug. 24-27</td>
+ <td>R+1</td>
+ <td>R+6</td>
+ <td>6</td>
+ </tr><tr><td>Phillips Academy/Abbot Academy Fund</td>
+ <td>Aug. 3-7</td>
+ <td>R+2</td>
+ <td>R+8</td>
+ <td>6</td>
+ </tr><tr><td>Research Affiliates/Charlie L. Bailey (D)</td>
+ <td>July 26-Aug. 1</td>
+ <td>D+3</td>
+ <td>TIE</td>
+ <td>3</td>
+ </tr><tr><td>InsiderAdvantage/WAGA-TV</td>
+ <td>July 26-27</td>
+ <td>D+3</td>
+ <td>R+5</td>
+ <td>8</td>
+ </tr><tr><td>Beacon Research/Shaw &amp; Co. Research/Fox News</td>
+ <td>July 22-26</td>
+ <td>D+4</td>
+ <td>R+3</td>
+ <td>7</td>
+ </tr><tr><td>SurveyUSA/WXIA-TV</td>
+ <td>July 21-24</td>
+ <td>D+9</td>
+ <td>R+1</td>
+ <td>10</td>
+ </tr><tr><td>Univ. of Georgia/Atlanta Journal-Constitution</td>
+ <td>July 14-22</td>
+ <td>D+4</td>
+ <td>R+5</td>
+ <td>9</td>
+ </tr><tr><td>Fabrizio, Lee &amp; Associates/Impact Research/AARP</td>
+ <td>July 5-11</td>
+ <td>D+3</td>
+ <td>R+7</td>
+ <td>10</td>
+ </tr><tr><td>Beacon Research/Environmental Voter Project</td>
+ <td>July 5-20</td>
+ <td>D+5</td>
+ <td>R+8</td>
+ <td>13</td>
+ </tr><tr><td>Data for Progress</td>
+ <td>July 1-6</td>
+ <td>R+2</td>
+ <td>R+9</td>
+ <td>7</td>
+ </tr><tr><td>Change Research/Future Majority (D)</td>
+ <td>June 24-27</td>
+ <td>D+4</td>
+ <td>R+2</td>
+ <td>6</td>
+ </tr><tr><td>Quinnipiac Univ.</td>
+ <td>June 23-27</td>
+ <td>D+10</td>
+ <td>TIE</td>
+ <td>10</td>
+ </tr><tr><td>Moore Information/Herschel Walker (R)</td>
+ <td>June 11-16</td>
+ <td>TIE</td>
+ <td>R+7</td>
+ <td>7</td>
+ </tr><tr><td>East Carolina Univ.</td>
+ <td>June 6-9</td>
+ <td>D+1</td>
+ <td>R+6</td>
+ <td>6</td>
+ </tr><tr><td>Average</td>
+ <td></td>
+ <td>D+3</td>
+ <td>R+5</td>
+ <td>7</td>
+ </tr></tbody></table><footer><p>The data is shown as rounded but was calculated based on the fully-reported info in cases where pollsters provided decimal points. A “(D)” or “(R)” beside a pollster’s name indicates their or their sponsor’s partisan affiliation.</p>
+ <p>Source: polls</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">But the fact that Georgia’s electorate is so polarized makes it unlikely that we’ll see <em>too</em> large of a gap between the two contests. Like most of the Deep South, Georgia <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12149" target="_blank" rel="noopener">has a racially polarized electorate</a>, where most Black voters back Democrats and most white voters back Republicans.&nbsp;</p><div data-defer="none" data-google-query-id="CODjsKHwgvoCFU-gAAAdCjAGMg"><div><div><p><span>Recent Stories from FiveThirtyEight</span></p><cnx><cnx><cnx></cnx><cnx><cnx>
+            
+            <cnx><cnx></cnx>
+                
+                <cnx>
+                    <cnx>
+                    <cnx>
+                        <cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx><cnx><cnx><cnx></cnx><cnx></cnx><cnx></cnx></cnx><cnx></cnx></cnx></cnx>
+                    </cnx>
+                    <cnx>
+                        <cnx>
+                            <cnx>
+                <cnx>
+                <img src="//img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/54de8484-a7ae-43c8-ab17-109469b196b0/1.png" alt="">
+            </cnx>
+                <cnx>
+                    <cnx>
+                <cnx class="clear">
+                    <cnx>
+                        <cnx>
+                            <cnx>Top Articles</cnx>
+                        </cnx>
+                    </cnx>
+                </cnx>
+            </cnx>
+                    <cnx>
+                <cnx class="clear">
+                    <cnx>
+                        <cnx>
+                            <cnx>by <em>FiveThirtyEight</em></cnx>
+                        </cnx>
+                    </cnx>
+                </cnx>
+            </cnx>
+                </cnx>
+            </cnx>
+                        </cnx>
+                        <cnx>
+                            <cnx><cnx aria-expanded="false" aria-haspopup="true" aria-controls="cnx-ui-cm-settings" tabindex="0">
+                <cnx>
+                    
+
+                </cnx>
+            <cnx></cnx></cnx></cnx>
+                            
+                        </cnx>
+                    </cnx>
+                </cnx>
+                <cnx>
+                    <cnx>
+                        <cnx><cnx tabindex="0">
+                <cnx>
+                    
+                </cnx>
+            <cnx></cnx></cnx></cnx>
+                        <cnx><cnx tabindex="0">
+        <cnx>
+            <cnx>
+</cnx>
+            
+        </cnx>
+    <cnx></cnx></cnx></cnx>
+                        <cnx><cnx tabindex="0">
+                <cnx>
+                    
+                </cnx>
+            <cnx></cnx></cnx></cnx>
+                        <cnx><cnx tabindex="0"><cnx><cnx></cnx></cnx><cnx></cnx></cnx></cnx>
+                    </cnx>
+                </cnx>
+                <cnx></cnx>
+                
+                </cnx>
+            <cnx><cnx><cnx>
+            <cnx><cnx><audio muted=""></audio><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/0fbd6ed5-40a6-4bb8-b7e8-ab94f06f4062.jpg?crop=711:400,smart&amp;width=711&amp;height=400&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="How BYU Became ‘QB U’"></cnx></cnx>
+            <cnx></cnx>
+            <cnx>
+                <cnx>
+            <a title="How BYU Became ‘QB U’" href="https://fivethirtyeight.com/features/how-byu-became-qb-u/?traffic_source=Connatix" target="_top" rel="nofollow">
+                <cnx>
+                    <cnx>
+                        <cnx>
+                            
+                            <cnx-span>Read More</cnx-span>
+                            
+                        </cnx>
+                    </cnx>
+                </cnx>
+            </a>
+        </cnx>
+            </cnx>
+        </cnx></cnx><cnx><cnx>
+            <cnx><cnx><audio muted=""></audio><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/f0635dea-65ff-4bd9-8177-f577e35e0a8d.jpg?crop=711:400,smart&amp;width=711&amp;height=400&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="Do You Buy That … Dems Are Favored To Win Pennsylvania Senate And Governor’s Races?"></cnx></cnx>
+            <cnx></cnx>
+            
+        </cnx></cnx><cnx><cnx>
+            <cnx><cnx><audio muted=""></audio><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/63d24f7b-2b03-494a-98e1-1422c27e77f8.jpg?crop=711:400,smart&amp;width=711&amp;height=400&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="Where Candidates Who Deny The 2020 Election Results Are On The Ballot — And Where They Could Win"></cnx></cnx>
+            <cnx></cnx>
+            
+        </cnx></cnx><cnx><cnx>
+            <cnx></cnx>
+            <cnx></cnx>
+            
+        </cnx></cnx><cnx><cnx>
+            <cnx><cnx><audio muted=""></audio><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/bb32cf14-8a64-4fb1-b3ee-2ba2a065d579.jpg?crop=711:400,smart&amp;width=711&amp;height=400&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="Why Conservative Voters Support Liberal Ballot Measures"></cnx></cnx>
+            <cnx></cnx>
+            
+        </cnx></cnx><cnx><cnx>
+            <cnx><cnx><audio muted=""></audio><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/4d516cbf-d15b-4af5-9845-ae913a068582.jpg?crop=711:400,smart&amp;width=711&amp;height=400&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="Why Trump’s Presence In The Midterms Is Risky For The GOP"></cnx></cnx>
+            <cnx></cnx>
+            
+        </cnx></cnx></cnx></cnx>
+            <cnx>
+                <cnx>
+                    
+                </cnx>
+            </cnx>
+            
+        </cnx></cnx><cnx><img src="https://img.connatix.com/pid-54de8484-a7ae-43c8-ab17-109469b196b0/852c2b61-a93d-4103-8ff8-74ce309ba89b/0fbd6ed5-40a6-4bb8-b7e8-ab94f06f4062.jpg?crop=711:472,smart&amp;width=711&amp;height=472&amp;format=jpeg&amp;quality=60&amp;fit=crop" alt="How BYU Became ‘QB U’"></cnx></cnx></cnx></div></div></div>
+
+
+
+<p data-paragraph="main">Take Georgia’s 2020 presidential vote: 88 percent of Black voters supported President Biden, while 69 percent of white voters supported former President Trump, <a href="https://abcnews.go.com/Elections/georgia-exit-polls-2020-us-presidential-election-results-analysis" target="_blank" rel="noopener">according to the 2020 exit polls</a>. This gives Georgia what we at FiveThirtyEight call an <a href="https://fivethirtyeight.com/features/election-update-the-house-districts-that-swing-the-most-and-least-with-the-national-mood/" target="_blank" rel="noopener">“inelastic” electorate</a>, or an electorate for which factors like the political environment and candidate traits are unlikely to sway voters because so few voters are swing voters.</p>
+
+
+
+<p data-paragraph="main">This lack of a gap in Georgia’s statewide elections is clear when we examine elections dating back to 2002, which is arguably when Georgia’s current political era began — that year, Republicans <a href="https://www.nytimes.com/2002/11/10/us/2002-election-georgia-bush-s-push-eager-volunteers-big-turnout-led-georgia-sweep.html" target="_blank" rel="noopener">won the governorship and captured a state-legislative chamber</a> for the first time since Reconstruction. For instance, when we compare the outcomes in each pair of presidential, Senate and gubernatorial races in years when two of those races were on the ballot,<span class="converted-anchor"><sup>2</sup></span> the margins in these high-profile races usually differed only to a small extent, as the table below shows.</p>
+
+
+<div>
+<section><header><h5>Top-tier Georgia races don’t usually differ much</h5>
+ <p>Difference in margin between major statewide elections for president, Senate or governor in years when at least two of these offices were on the ballot, 2002 to present</p>
+ </header><table data-carpenter-slug="skelley.ga-sen-vs-ga-gov.4"><thead><tr><th colspan="1" scope="col">Year</th>
+ <th colspan="1" scope="col">Race</th>
+ <th colspan="1" scope="col">Margin</th>
+ <th colspan="1" scope="col">Race</th>
+ <th colspan="1" scope="col">Margin</th>
+ <th colspan="1" scope="col">Gap</th>
+ </tr></thead><tbody><tr><td>2021</td>
+ <td>Senate</td>
+ <td>D+1.2</td>
+ <td>Senate*</td>
+ <td>D+2.1</td>
+ <td>0.9</td>
+ </tr><tr><td>2020</td>
+ <td>President</td>
+ <td>D+0.2</td>
+ <td>Senate</td>
+ <td>R+1.8</td>
+ <td>2.0</td>
+ </tr><tr><td>2016</td>
+ <td>President</td>
+ <td>R+5.1</td>
+ <td>Senate</td>
+ <td>R+13.8</td>
+ <td>8.7</td>
+ </tr><tr><td>2014</td>
+ <td>Senate</td>
+ <td>R+7.7</td>
+ <td>Governor</td>
+ <td>R+7.9</td>
+ <td>0.2</td>
+ </tr><tr><td>2010</td>
+ <td>Senate</td>
+ <td>R+19.3</td>
+ <td>Governor</td>
+ <td>R+10.1</td>
+ <td>9.3</td>
+ </tr><tr><td>2008</td>
+ <td>President</td>
+ <td>R+5.2</td>
+ <td>Senate</td>
+ <td>R+2.9</td>
+ <td>2.3</td>
+ </tr><tr><td>2004</td>
+ <td>President</td>
+ <td>R+16.6</td>
+ <td>Senate</td>
+ <td>R+17.9</td>
+ <td>1.3</td>
+ </tr><tr><td>2002</td>
+ <td>Senate</td>
+ <td>R+6.9</td>
+ <td>Governor</td>
+ <td>R+5.2</td>
+ <td>1.7</td>
+ </tr></tbody></table><footer><p>*Special election for U.S. Senate</p>
+ <p>The 2020 Senate race is the regularly scheduled Class II seat, as the special election for the Class III seat was a jungle primary. No candidate won an outright majority in either Senate election, which by state law necessitated a January 2021 runoff, as shown in the 2021 row.</p>
+ <p>Source: Dave Leip’s Atlas of U.S. Presidential Elections</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Although each year and race had its own set of particulars, six of these eight sets of elections saw only small differences in margin — less than 3 points. The exceptions were the 2010 midterms and 2016 presidential election, when there was a wide gap between the Senate election and the other statewide election. (Republican Sen. Johnny Isakson was up both years, so <a href="https://www.georgiapol.com/2016/11/22/deeper-dive-gwinnetts-election-results/" target="_blank" rel="noopener">he may have given the GOP</a> a lift as an incumbent; also former Gov. Roy Barnes served as the Democrats’ nominee for governor in 2010, and <a href="https://www.atlantamagazine.com/news-culture-articles/roy-barnes-on-the-confederate-flag-and-where-the-south-needs-to-go-from-here/" target="_blank" rel="noopener">his past appeal</a> in more conservative parts of the state may have made that race closer than it would’ve been otherwise.) But these elections were the exception, not the norm. Even the state’s most recent elections, the 2020 presidential election and 2021 Senate runoffs, featured elections with very similar margins — although they might be evidence that the overall political climate in Georgia is shifting toward Democrats.</p>
+
+
+
+<p data-paragraph="main">It’s notable, then, that the FiveThirtyEight forecast shows such a large divide between the Senate and governor races in its average projected vote share. The forecast currently<span class="converted-anchor"><sup>3</sup></span> has Kemp with a 6-point lead and Warnock with about a 1-point lead, which would amount to a 7-point gap between the two races.&nbsp;</p>
+
+
+
+<p data-paragraph="main">There are a number of potential explanations for this gap, but the biggest factor might be incumbency and, more importantly, that Georgia’s top two races feature incumbents from different parties — Kemp is a Republican and Warnock a Democrat. <a href="https://www.researchgate.net/profile/Seth-Mckee/publication/326886553_Nationalization_in_US_Senate_and_Gubernatorial_Elections/links/5f221f58a6fdcccc4399348a/Nationalization-in-US-Senate-and-Gubernatorial-Elections.pdf" target="_blank" rel="noopener">Incumbency does not provide as strong</a> a tailwind as it once did, but both Kemp and Warnock are relatively popular politicians who could each win. From April through June, <a href="https://morningconsult.com/2022/07/19/democratic-governors-are-resisting-bidens-decline/" target="_blank" rel="noopener">Morning Consult’s polling</a> gave Kemp a 52 percent approval rating and only a 39 percent disapproval rating; <a href="https://morningconsult.com/2022/07/25/murkowski-experiences-mid-campaign-approval-bump/" target="_blank" rel="noopener">Warnock</a>, meanwhile, had an approval rating of about 47 percent and a disapproval rating of 41 percent.</p>
+
+
+
+<p data-paragraph="main">In other words, there isn’t <em>that</em> much difference between Kemp’s and Warnock’s standing in Georgia. However, given that the gap between the two races is unlikely to remain this large and that Kemp has a healthier lead over Abrams than Warnock has over Walker, voters who split their tickets could matter a lot for Warnock. And two polls, one from Emerson College <a href="https://emersoncollegepolling.com/georgia-2022-walker-holds-two-point-lead-over-warnock-in-tight-senate-race-kemp-leads-abrams-by-four/" target="_blank" rel="noopener">released last week</a> and a <a href="https://static.foxnews.com/foxnews.com/content/uploads/2022/07/ef9384ab-GA-crosstabs_Sen-Gov-General_conducted-July-22-26_released-July-28-2022.pdf" target="_blank" rel="noopener">July survey</a> from Beacon Research/Shaw &amp; Company on behalf of Fox News, show how different degrees of Kemp voters backing Warnock could matter. In Emerson’s poll, only 3 percent of Kemp supporters backed Warnock, and overall, Walker led by 2 points. In the Fox News survey, meanwhile, 8 percent of Kemp’s supporters backed Warnock, and overall, Warnock led by 4 points. The takeaway here is that higher levels of support for Warnock among Kemp voters would seemingly boost the incumbent senator’s chances of finishing ahead of Walker.&nbsp;</p>
+
+
+
+<p data-paragraph="main">This is not to say that only split-ticket voting will matter to the outcomes in each race; turnout and the overall political environment are also important. But Warnock would be in much better shape if he could capture 8 percent of Kemp’s voters versus just 3 percent: Based <a href="https://uselectionatlas.org/RESULTS/state.php?year=2018&amp;fips=13&amp;f=0&amp;off=5&amp;elect=0" target="_blank" rel="noopener">on the 2018 governor’s race</a>, that could be a difference of roughly 100,000 votes, or about 2.5 percent of ballots cast. In a close contest, that’s a big deal — case in point, Kemp defeated Abrams by just 55,000 votes four years ago.</p>
+
+
+
+<p data-paragraph="main">Finally, there’s one other wrinkle with Georgia: If no candidate wins an outright majority of the vote, a runoff between the top-two finishers <a href="https://www.sos.ga.gov/sites/default/files/forms/2022%20State%20Scheduled%20Elections%20Short%20Calendar.pdf" target="_blank" rel="noopener">will take place</a> on Dec. 6, 2022.<span class="converted-anchor"><sup>4</sup></span> And considering each contest has a Libertarian candidate, which is notable because Libertarians have averaged a little over 2 percent in statewide races dating back to 2002, it’s entirely possible that if the Senate race is <em>especially</em> tight, a Libertarian candidate who gains 1 or 2 percent of the vote could trigger a Warnock-Walker runoff in December. Currently,<span class="converted-anchor"><sup>5</sup></span> the FiveThirtyEight forecast gives the Senate race about a 1-in-5 chance of going to a runoff, while the governor’s race has about a 1-in-10 chance.</p>
+
+
+
+<p data-paragraph="main">At this point, it’s too soon to say how the races in Georgia will change, but with two months to go until Election Day, we’ll be keeping a close eye on Peach State polls to see whether the gap between the two contests remains large or narrows.</p>						
+</body>
+</html>
+
+</textarea>
+<textarea id="imglink">https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0906-16x9-1.png?w=712</textarea>
+<head>
+   <title>Georgia’s Senate Race Is Much Closer Than The Governor Election. Will That Hold Until November?</title>
+   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+   <meta name="HandheldFriendly" content="true">
+</head>
+<style type="text/css">
+   textarea{display:none}
+   p{display:block;margin-block-start:0px;margin-block-end:0px;margin-inline-start:0px;margin-inline-end:0px;font-size:10vw;}
+   .nw1{background-color:#f2f2f2;}
+   .nw0{background-color:#e6e6e6;}
+</style>
+<body style="font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;">
+   <table style="width: 100%; margin-left:auto; margin-right:auto;">
+   <tr><td style="border:1px solid; text-align:center;"><p id="p_wordspot" onclick="do_playpause();">XXXX</p></td></tr>
+   <tr><td><input id="rng_wpm" style="width:100%; height:5px;" type="range" min="50" max="1000" value="700" step="25" onchange="set_wpm(this.value)"></td></tr>
+   <tr><td><img id="pic"  style="width:100%"></td></tr>
+   <tr><td id="td_words" style="vertical-align:top;"/></tr>
+   </table>
+</body>
+</html>
+
+   
+<script>
+   function gel(id){return document.getElementById(id)}
+   gel("pic").src = gel("imglink").value;
+   let p_wordspot = gel("p_wordspot");
+   let ta_content = gel("txt_content");
+   let rng_wpm = gel("rng_wpm");
+   let wpm_delay;
+   let arr_words = [];
+   let arr_idx = 0;
+   function set_wpm(in_wpm) { wpm_delay = (60000 / in_wpm); p_wordspot.innerHTML = in_wpm + " wpm"; }
+   set_wpm(rng_wpm.value);
+   rng_wpm.onchange = function () {set_wpm(rng_wpm.value)}
+   var timeout_pending = null;
+   var do_show_next = function() {
+      if (arr_idx < arr_words.length) {
+         p_wordspot.innerHTML = arr_words[arr_idx++];
+         timeout_pending = setTimeout(do_show_next, wpm_delay);
+      } else {
+         timeout_pending = null;
+         arr_idx = 0;
+      }
+   } 
+function do_pause() { clearInterval(timeout_pending); timeout_pending = null; }
+   function do_playpause() {
+      if (timeout_pending == null & arr_idx < arr_words.length) do_show_next(); // if paused, resume
+      else if (timeout_pending == null) arr_idx = 0; // if ended, reload
+      else do_pause(); // otherwise pause
+   }
+   function jumptoidx(idx) {do_pause(); arr_idx = idx; p_wordspot.innerHTML = arr_words[arr_idx];}
+   function wordListCreate(in_words) {
+      let td_words = gel("td_words");
+      let _navword_ = document.createElement('span');
+      for (let idx in in_words) {
+         var eword = _navword_.cloneNode(false);
+         eword.className = 'nw'+(idx%2);
+         eword.appendChild(document.createTextNode(in_words[idx]+" "));
+         eword.setAttribute('onclick', 'jumptoidx(' + idx + ')');
+         td_words.appendChild(eword);
+      }
+   }
+   let isInTag = false;
+   let txt_scrubbed = ta_content.value.replace(/\.(\w)/g, ". $1")
+   for (let word of txt_scrubbed.split("\r").join(" ").split("\n").join(" ").split(" ")) {
+      if (word.startsWith("<")) isInTag = true; else if (word.endsWith(">")) isInTag = false;
+      if (word != "" & !isInTag) arr_words.push(word);
+   }
+   wordListCreate(arr_words);
+</script>
